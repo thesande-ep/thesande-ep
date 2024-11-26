@@ -22,8 +22,8 @@ I build scalable web apps, dive into data, and explore the latest in tech. Alway
 
 | Platform        | Profile Link                                     |
 |-----------------|-------------------------------------------------|
-| **LinkedIn**    | [linkedin.com/in/yourprofile](https://linkedin.com/in/thisissande-ep/) |
-| **Twitter**     | [twitter.com/yourprofile](https://twitter.com/thisissande_ep)         |
+| **LinkedIn**    | [linkedin.com/in/thisissande-ep](https://linkedin.com/in/thisissande-ep/) |
+| **Twitter**     | [twitter.com/thisissande-ep](https://twitter.com/thisissande_ep)         |
 
 ---
 
